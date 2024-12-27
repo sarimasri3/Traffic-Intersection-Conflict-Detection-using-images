@@ -96,6 +96,9 @@ Uncomment the sections you need in the `if __name__ == "__main__":` block.
 - **Image Data**: This script encodes images into Base64 for API integration. Verify compliance with OpenAI's size and format limits.
 - **API Key Security**: Do not commit your API key to a public repository. Use environment variables instead.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
